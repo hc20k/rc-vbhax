@@ -2,7 +2,7 @@
 A hack that enables virtual backgrounds on RingCentral (macOS) without needing a compatible processor.
 (Should work on all versions of RingCentral)
 
-__! If the injection doesn't appear to be working you may have to disable SIP (System Integrity Protection) !__
+### __❗ If the injection doesn't appear to be working you may have to disable SIP (System Integrity Protection) ❗__
 
 ## How to use
 Once you build the project you will end up with a `vbhax.dylib` in the `build` folder. 
