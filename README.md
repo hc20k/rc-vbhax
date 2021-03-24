@@ -1,6 +1,6 @@
 # rc-vbhax
 A hack that enables virtual backgrounds on RingCentral (macOS) without needing a compatible processor.
-(Should work on all versions of RingCentral)
+~~(Should work on all versions of RingCentral)~~ Broken as of 3/24/21
 
 ### __❗ If the injection doesn't appear to be working you may have to disable SIP (System Integrity Protection) ❗__
 
